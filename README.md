@@ -10,5 +10,8 @@ Thay đổi thông tin username và password tại mục datasource để khớp
 **Bước 3:** Cài đặt và khởi chạy Frontend (React.js) Sử dụng phần mềm Visual Studio Code để mở thư mục chứa mã nguồn Frontend (crm-frontend). Mở Terminal tích hợp trong VS Code. Thực thi lệnh sau để cài đặt các thư viện Node.js cần thiết: npm install Sau khi cài đặt hoàn tất, khởi chạy máy chủ Frontend bằng lệnh: npm run dev Truy cập vào đường dẫn hiển thị trên Terminal (mặc định là http://localhost:5173) thông qua trình duyệt web để bắt đầu sử dụng hệ thống.
 Backend khởi chạy thành công khi cửa sổ Console thông báo ứng dụng đang hoạt động tại cổng 8081.  
 **III.CÁC PHÂN HỆ NGHIỆP VỤ CHÍNH**  
-Phân hệ Quản lý Kho hàng & Sản phẩm (Inventory) Quản lý danh mục Sản phẩm và số lượng tồn kho thực tế.
+Phân hệ Quản lý Kho hàng & Sản phẩm (Inventory) Quản lý danh mục Sản phẩm và số lượng tồn kho thực tế.  
+**Giao Diện Sản Phẩm**  
+<img width="1543" height="869" alt="image" src="https://github.com/user-attachments/assets/a599c1b2-92af-4bc2-b8a1-1e1fbb2b64a6" />  
+<img width="888" height="789" alt="image" src="https://github.com/user-attachments/assets/955a70b9-9e48-4d77-a7f7-460f8afa160f" />
 
