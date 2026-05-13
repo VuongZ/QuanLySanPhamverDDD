@@ -1,6 +1,6 @@
 
-# HỆ THỐNG QUẢN LÝ Sản Phẩm Hệ thống Quản Lý Sản Phẩm
-là một ứng dụng Web Full-stack được xây dựng nhằm mục đích hỗ trợ quản lý sản phẩm và loại sản phẩm.     
+# HỆ THỐNG QUẢN LÝ Sản Phẩm 
+Hệ thống Quản Lý Sản Phẩm là một ứng dụng Web Full-stack được xây dựng nhằm mục đích hỗ trợ quản lý sản phẩm và loại sản phẩm.     
 ### I. CÔNG NGHỆ SỬ DỤNG Môi trường Backend: 
 Ngôn ngữ: Java (JDK 17)  
 Framework: Spring Boot, Spring Data JPA, Hibernate  
