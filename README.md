@@ -1,7 +1,7 @@
 # QuanLySanPhamverDDD
 **HỆ THỐNG QUẢN LÝ Sản Phẩm Hệ thống Quản Lý Sản Phẩm là một ứng dụng Web Full-stack được xây dựng nhằm mục đích hỗ trợ quản lý sản phẩm và loại sản phẩm.**     
 **I. CÔNG NGHỆ SỬ DỤNG Môi trường Backend:** Ngôn ngữ: Java (JDK 17) Framework: Spring Boot, Spring Data JPA, Hibernate Công cụ hỗ trợ: Lombok Hệ quản trị: MySQL 8.0+ Môi trường Frontend:  
-Thư viện cốt lõi: React.js (Sử dụng Vite để đóng gói) Quản lý định tuyến: React Router DOM Giao tiếp API: Axios Giao diện (UI/UX): Bootstrap 5
+Thư viện cốt lõi: React.js (Sử dụng Vite để đóng gói) Quản lý định tuyến: React Router DOM Giao tiếp API: Axios Giao diện (UI/UX): Bootstrap 5  
 **II. HƯỚNG DẪN CÀI ĐẶT VÀ VẬN HÀNH Để khởi chạy dự án trên môi trường máy chủ cục bộ (localhost), thực hiện tuần tự các bước dưới đây:**    
 **Bước 1:** Khời tạo cơ sở dữ liệu (Database) Sử dụng các công cụ quản trị MySQL (như HeidiSQL, MySQL Workbench, hoặc XAMPP). Tạo một cơ sở dữ liệu mới với tên gọi: CRMOnline_Pro (khuyến nghị định dạng UTF-8). Mở và thực thi (Execute) file script SQL được đính kèm trong mã nguồn: CRMOnline_Pro.sql.  
 **Bước 2:** Cấu hình và khởi chạy Backend (Spring Boot) Sử dụng phần mềm IntelliJ IDEA để mở thư mục chứa mã nguồn Backend (crm-backend).
